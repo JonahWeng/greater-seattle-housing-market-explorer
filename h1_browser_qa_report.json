@@ -1,0 +1,92 @@
+{
+  "overall": "PASS",
+  "results": [
+    {
+      "name": "City boundaries",
+      "status": "PASS",
+      "detail": "found 78"
+    },
+    {
+      "name": "H1 default metric",
+      "status": "PASS",
+      "detail": "Single-family price per sq. ft. change — 2026 first half"
+    },
+    {
+      "name": "H1 exact period",
+      "status": "PASS",
+      "detail": "Jan–Jun 2026 vs. Jan–Jun 2025 · Minimum 50 sales in each half · Single Family Residential · All Available Cities · Show all with caution"
+    },
+    {
+      "name": "Single-family fixed",
+      "status": "PASS",
+      "detail": "Single Family Residential"
+    },
+    {
+      "name": "All-city scope",
+      "status": "PASS",
+      "detail": "all"
+    },
+    {
+      "name": "Show-all sample mode",
+      "status": "PASS",
+      "detail": "all"
+    },
+    {
+      "name": "All 78 cities listed",
+      "status": "PASS",
+      "detail": "found 78"
+    },
+    {
+      "name": "58 ranked and 20 insufficient",
+      "status": "PASS",
+      "detail": "58 ranked · 20 insufficient"
+    },
+    {
+      "name": "All-city top city",
+      "status": "PASS",
+      "detail": "1Buckley−13.4%"
+    },
+    {
+      "name": "Low-sample star",
+      "status": "PASS",
+      "detail": "3Woodinville*−10.6%"
+    },
+    {
+      "name": "Bellevue rank",
+      "status": "PASS",
+      "detail": "8Bellevue−7.3%"
+    },
+    {
+      "name": "Insufficient rows marked N/A",
+      "status": "PASS",
+      "detail": "—Yarrow PointN/A"
+    },
+    {
+      "name": "Existing metrics preserved",
+      "status": "PASS",
+      "detail": "Population growth — 1 year"
+    },
+    {
+      "name": "Zoom preserved",
+      "status": "PASS",
+      "detail": "translate(-301.5,-170) scale(1.5)"
+    },
+    {
+      "name": "Mobile horizontal overflow",
+      "status": "PASS",
+      "detail": "0px"
+    },
+    {
+      "name": "Mobile ranking visible",
+      "status": "PASS",
+      "detail": "ranking list visible"
+    }
+  ],
+  "files": [
+    "h1_sfr_interactive_desktop.png",
+    "h1_sfr_mobile.png",
+    "h1_sfr_ranking_16x9.png",
+    "h1_sfr_ranking_a4.png",
+    "h1_sfr_ranking_all_samples.png"
+  ]
+}
