@@ -7,6 +7,7 @@ Live site: https://jonahweng.github.io/greater-seattle-housing-market-explorer/
 ## Included
 
 - Median home price and price-per-square-foot changes
+- 2026 first-half single-family PPSF ranking with an Everett–Tacoma report scope
 - Single-family, townhouse, and condo/co-op comparisons
 - 1-year, 3-year, and 5-year windows
 - Seasonal peak comparisons
